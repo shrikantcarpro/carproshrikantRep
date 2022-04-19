@@ -2,14 +2,14 @@
 	"traffic-files5": {
 		"leased-contracts1": {
 			"id": 1,
-			"kind": "B2C",
+			"kind": "B2B",
 			"did": "did:50000000:C123456789",
 			"parent": "did:50000000:C012345678",
 			"source": "tars",
 			"sourceKey": "1021252",
 			"agency": {
 				"id": 1,
-				"did": "did:ded:1210141",
+				"did": "did:ded:121014145",
 				"source": "ded",
 				"sourceKey": "1210141",
 				"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
@@ -18,7 +18,7 @@
 					"ar": "عربي"
 				},
 				"chainName": {
-					"en": "English",
+					"en": "English Local",
 					"ar": "عربي"
 				},
 				"tradeLicenseNumber": "12764548"
