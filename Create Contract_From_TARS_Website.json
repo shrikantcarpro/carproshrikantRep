@@ -2,7 +2,7 @@
 
 	
 	"traffic-files2": {
-		"leased-contracts": {
+		"leased-contracts1": {
 			"id": 1,
 			"kind": "B2C",
 			"did": "did:50000000:C123456789",
