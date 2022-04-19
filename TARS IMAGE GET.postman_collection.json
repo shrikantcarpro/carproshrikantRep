@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "fa9fa3e1-65e5-49e0-80a6-ecccb35589bc",
+		"name": "TARS IMAGE GET",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "{{url}}/tars/oauth2/token Copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "grant_type",
+							"value": "client_credentials",
+							"type": "text"
+						},
+						{
+							"key": "scope",
+							"value": "api:tars",
+							"type": "text"
+						},
+						{
+							"key": "client_id",
+							"value": "{{clientId}}",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{client_secret}}",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/tars/oauth2/token",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"tars",
+						"oauth2",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Image from TARS Copy",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "AAILZHhiNTAwMTM0MTUoHLoo0nwGjT5dox6DkWR6numdhLOC7-8kO7V2qKbOry1HHBu-sjWC1l0vNIywBoJu5DmillxIErcnW1jdfhIBU3mswaIp6Bggqw1WRMAdoQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-IBM-Client-Id",
+						"value": "{{clientId}}",
+						"type": "text"
+					},
+					{
+						"key": "X-IBM-Client-Secret",
+						"value": "{{client_secret}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{url}}/agencies/did:rta:50013415/uploads/bd2704f38bc374520119c1f2f114fb001837e7ca762663c328be5c215fb1fe2c.PNG",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"agencies",
+						"did:rta:50013415",
+						"uploads",
+						"bd2704f38bc374520119c1f2f114fb001837e7ca762663c328be5c215fb1fe2c.PNG"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

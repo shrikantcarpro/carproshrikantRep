@@ -1,0 +1,1866 @@
+{
+	"traffic-files": {
+		"leased-contracts": {
+			"id": 1,
+			"kind": "B2C",
+			"did": "did:50000000:C123456789",
+			"parent": "did:50000000:C012345678",
+			"source": "tars",
+			"sourceKey": "1021252",
+			"agency": {
+				"id": 1,
+				"did": "did:ded:1210141",
+				"source": "ded",
+				"sourceKey": "1210141",
+				"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+				"name": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"chainName": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"tradeLicenseNumber": "12764548"
+			},
+			"broker": {
+				"id": 1,
+				"did": "did:ded:1210141",
+				"source": "ded",
+				"sourceKey": "1210141",
+				"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+				"name": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"chainName": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"tradeLicenseNumber": "12764548"
+			},
+			"branch": {
+				"id": 1,
+				"did": "did:ded:1210141",
+				"source": "ded",
+				"sourceKey": "1210141",
+				"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+				"name": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"chainName": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"tradeLicenseNumber": "12764548"
+			},
+			"counter": {
+				"id": 1,
+				"did": "did:ded:1234",
+				"source": "ded",
+				"sourceKey": "1021252",
+				"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+				"agency": {
+					"id": 1,
+					"did": "did:ded:1210141",
+					"source": "ded",
+					"sourceKey": "1210141",
+					"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+					"name": {
+						"en": "English",
+						"ar": "عربي"
+					},
+					"chainName": {
+						"en": "English",
+						"ar": "عربي"
+					},
+					"tradeLicenseNumber": "12764548"
+				},
+				"name": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"chainName": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"description": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"details": {
+					"contact": {
+						"addresses": [
+							{
+								"label": "work",
+								"address": {
+									"en": "English",
+									"ar": "عربي"
+								},
+								"makani": "2433087031",
+								"poBox": "9226",
+								"area": {
+									"code": "wibim",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"subArea": {
+									"code": "diegoowm",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"community": {
+									"code": "puwlegedozefhiru",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"unit": {
+									"code": "pulfa",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"building": {
+									"code": "lotisagiluw",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"street": {
+									"code": "jiczegnupicsoj",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"city": {
+									"code": "ifhifupjatwejva",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"region": {
+									"code": "heuz",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"country": {
+									"code": "aneefibeobtubca",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"postalCode": "9226",
+								"emirate": {
+									"code": "vacnevarojzaki",
+									"name": {
+										"en": "English",
+										"ar": "عربي"
+									}
+								},
+								"geoLocation": {
+									"latitude": 25.1892807,
+									"longitude": 55.2561466
+								},
+								"preferred": true
+							}
+						],
+						"phones": [
+							{
+								"label": "work",
+								"countryCode": "+971",
+								"phone": "43435353",
+								"extension": "1234",
+								"preferred": true
+							}
+						],
+						"emails": [
+							{
+								"label": "personal",
+								"email": "john.doe@example.com",
+								"preferred": true
+							}
+						]
+					},
+					"attachments": [
+						{
+							"label": "passport",
+							"reference": "did:in:2232124123",
+							"url": "/attachments/582342345",
+							"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+						}
+					]
+				},
+				"status": "ACTIVE",
+				"createdBy": "tars",
+				"updatedBy": "tars",
+				"createdAt": "2020-04-04T16:04:04Z",
+				"updatedAt": "2020-04-04T16:04:04Z"
+			},
+			"rentalCounter": "did:ded:37283232",
+			"documentNumber": "1021252",
+			"documentDateTime": "2000-02-02T05:48:46.609Z",
+			"employee": {
+				"id": 1,
+				"did": "did:eid:784199952698752",
+				"employeeNumber": "11313",
+				"firstName": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"lastName": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"familyName": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"role": "Manager",
+				"userId": "john.doe@example.com"
+			},
+			"attachments": [
+				{
+					"label": "passport",
+					"reference": "did:in:2232124123",
+					"url": "/attachments/582342345",
+					"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+				}
+			],
+			"status": "ACTIVE",
+			"createdBy": "tars",
+			"updatedBy": "tars",
+			"createdAt": "2020-06-01T12:30:30Z",
+			"updatedAt": "2020-06-01T12:30:30Z",
+			"customer": {
+				"id": 1,
+				"did": "did:rta:1021252",
+				"source": "rta",
+				"sourceKey": "1021252",
+				"name": {
+					"ar": {
+						"title": "Mr.",
+						"firstName": "John",
+						"middleName": "B",
+						"lastName": "Doe",
+						"suffix": "Jr.",
+						"fullName": "John B Doe Jr."
+					},
+					"en": {
+						"title": "Mr.",
+						"firstName": "John",
+						"middleName": "B",
+						"lastName": "Doe",
+						"suffix": "Jr.",
+						"fullName": "John B Doe Jr."
+					}
+				},
+				"gender": "MALE",
+				"nationality": "United Kingdom",
+				"countryOfResidence": "United Arab Emirates",
+				"emiratesId": {
+					"id": "78419771212212",
+					"issueDate": "2020-09-01",
+					"expiryDate": "2021-08-31"
+				},
+				"gccId": {
+					"id": "78419771212212",
+					"issuedCountryCode": "OMN",
+					"issuedCountry": "Oman",
+					"issueDate": "2020-09-01",
+					"expiryDate": "2021-08-31"
+				},
+				"passport": {
+					"passportType": "REGULAR",
+					"passportNumber": "791234567",
+					"issuedCountryCode": "GBR",
+					"issuedCountry": "United Kingdom",
+					"issuedPlace": "London",
+					"issuedDate": "2018-06-10T23:38:14.854Z",
+					"expiryDate": "2012-02-03T10:24:03.766Z"
+				},
+				"visa": {
+					"visaType": "RESIDENCE",
+					"file": "302/2018/1234567",
+					"uid": "784197054649928",
+					"issuedPlace": "Dubai",
+					"issuedDate": "2011-12-05T18:03:59.719Z",
+					"expiryDate": "2002-06-09T01:41:14.906Z",
+					"sponsor": {
+						"en": "English",
+						"ar": "عربي"
+					},
+					"status": "ACTIVE"
+				},
+				"contact": {
+					"addresses": [
+						{
+							"label": "work",
+							"address": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"makani": "2433087031",
+							"poBox": "9226",
+							"area": {
+								"code": "rabazl",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"subArea": {
+								"code": "fietut",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"community": {
+								"code": "cojohvopevi",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"unit": {
+								"code": "dikiwumiirima",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"building": {
+								"code": "zejule",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"street": {
+								"code": "novril",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"city": {
+								"code": "jiziasefbomsecub",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"region": {
+								"code": "caingarcejeberac",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"country": {
+								"code": "mehibzonu",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"postalCode": "9226",
+							"emirate": {
+								"code": "darwiir",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"geoLocation": {
+								"latitude": 25.1892807,
+								"longitude": 55.2561466
+							},
+							"preferred": true
+						}
+					],
+					"phones": [
+						{
+							"label": "work",
+							"countryCode": "+971",
+							"phone": "43435353",
+							"extension": "1234",
+							"preferred": true
+						}
+					],
+					"emails": [
+						{
+							"label": "personal",
+							"email": "john.doe@example.com",
+							"preferred": true
+						}
+					]
+				},
+				"birthDate": "2003-03-23T20:18:38.753Z",
+				"imageUrl": "/agencies/did:rta:1021252/7c96c336f65e2.png",
+				"attachments": [
+					{
+						"label": "passport",
+						"reference": "did:in:2232124123",
+						"url": "/attachments/582342345",
+						"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+					}
+				],
+				"driverLicense": {
+					"id": "78419771212212",
+					"categories": [
+						"senuhzo"
+					],
+					"issueDate": "2020-09-01",
+					"expiryDate": "2021-08-31",
+					"issuedBy": "Dubai",
+					"issuingAuthority": "UAE",
+					"issuedCountryCode": "UAE",
+					"issuingCountry": "UAE",
+					"totalBlackPoints": 20,
+					"licenseType": {
+						"en": "English",
+						"ar": "عربي"
+					}
+				},
+				"internationalDrivingPermit": {
+					"id": "78419771212212",
+					"categories": [
+						"bopcewfo"
+					],
+					"issueDate": "2020-09-01",
+					"expiryDate": "2021-08-31",
+					"issuedBy": "Dubai",
+					"issuingAuthority": "UAE",
+					"issuedCountryCode": "UAE",
+					"issuingCountry": "UAE",
+					"totalBlackPoints": 20,
+					"licenseType": {
+						"en": "English",
+						"ar": "عربي"
+					}
+				},
+				"userId": "bob.d",
+				"preferences": {
+					"language": "en"
+				},
+				"accounts": {
+					"membership": "7634981659272872"
+				}
+			},
+			"business": {
+				"id": 1,
+				"did": "did:rta:1021252",
+				"source": "rta",
+				"sourceKey": "1021252",
+				"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+				"name": {
+					"en": "English",
+					"ar": "عربي"
+				},
+				"tradeLicense": {
+					"licenseNo": "456789",
+					"issuedDate": "2004-09-01T11:41:07.932Z",
+					"expiryDate": "2012-11-23T03:40:15.324Z"
+				},
+				"taxRegistrationNumber": "874286057259008",
+				"personnel": [
+					{
+						"name": {
+							"ar": {
+								"title": "Mr.",
+								"firstName": "John",
+								"middleName": "B",
+								"lastName": "Doe",
+								"suffix": "Jr.",
+								"fullName": "John B Doe Jr."
+							},
+							"en": {
+								"title": "Mr.",
+								"firstName": "John",
+								"middleName": "B",
+								"lastName": "Doe",
+								"suffix": "Jr.",
+								"fullName": "John B Doe Jr."
+							}
+						},
+						"gender": "MALE",
+						"contact": {
+							"addresses": [
+								{
+									"label": "work",
+									"address": {
+										"en": "English",
+										"ar": "عربي"
+									},
+									"makani": "2433087031",
+									"poBox": "9226",
+									"area": {
+										"code": "nebetel",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"subArea": {
+										"code": "ahiz",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"community": {
+										"code": "zituv",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"unit": {
+										"code": "komoapjas",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"building": {
+										"code": "onuewwevi",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"street": {
+										"code": "javpikiga",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"city": {
+										"code": "walefa",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"region": {
+										"code": "fegkanigijwuseg",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"country": {
+										"code": "vofawurut",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"postalCode": "9226",
+									"emirate": {
+										"code": "mizegonoehnazbow",
+										"name": {
+											"en": "English",
+											"ar": "عربي"
+										}
+									},
+									"geoLocation": {
+										"latitude": 25.1892807,
+										"longitude": 55.2561466
+									},
+									"preferred": true
+								}
+							],
+							"phones": [
+								{
+									"label": "work",
+									"countryCode": "+971",
+									"phone": "43435353",
+									"extension": "1234",
+									"preferred": true
+								}
+							],
+							"emails": [
+								{
+									"label": "personal",
+									"email": "john.doe@example.com",
+									"preferred": true
+								}
+							]
+						}
+					}
+				],
+				"imageUrl": "/agencies/did:rta:1021252/7c96c336f65e2.png",
+				"attachments": [
+					{
+						"label": "passport",
+						"reference": "did:in:2232124123",
+						"url": "/attachments/582342345",
+						"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+					}
+				],
+				"userId": "acme.inc",
+				"accounts": {
+					"membership": "7634981659272872"
+				}
+			},
+			"details": [
+				{
+					"owner": {
+						"id": 1,
+						"did": "did:ded:1210141",
+						"source": "ded",
+						"sourceKey": "1210141",
+						"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+						"name": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"chainName": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"tradeLicenseNumber": "12764548"
+					},
+					"counter": {
+						"id": 1,
+						"did": "did:ded:1234",
+						"source": "ded",
+						"sourceKey": "1021252",
+						"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+						"agency": {
+							"id": 1,
+							"did": "did:ded:1210141",
+							"source": "ded",
+							"sourceKey": "1210141",
+							"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+							"name": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"chainName": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"tradeLicenseNumber": "12764548"
+						},
+						"name": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"chainName": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"description": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"details": {
+							"contact": {
+								"addresses": [
+									{
+										"label": "work",
+										"address": {
+											"en": "English",
+											"ar": "عربي"
+										},
+										"makani": "2433087031",
+										"poBox": "9226",
+										"area": {
+											"code": "gethuhle",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"subArea": {
+											"code": "puuttiwu",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"community": {
+											"code": "sawlomaborvani",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"unit": {
+											"code": "hecr",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"building": {
+											"code": "kuzwumovtafe",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"street": {
+											"code": "akiuhu",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"city": {
+											"code": "hewelozf",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"region": {
+											"code": "lemucusafcogike",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"country": {
+											"code": "furkesah",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"postalCode": "9226",
+										"emirate": {
+											"code": "bajnoligektuh",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"geoLocation": {
+											"latitude": 25.1892807,
+											"longitude": 55.2561466
+										},
+										"preferred": true
+									}
+								],
+								"phones": [
+									{
+										"label": "work",
+										"countryCode": "+971",
+										"phone": "43435353",
+										"extension": "1234",
+										"preferred": true
+									}
+								],
+								"emails": [
+									{
+										"label": "personal",
+										"email": "john.doe@example.com",
+										"preferred": true
+									}
+								]
+							},
+							"attachments": [
+								{
+									"label": "passport",
+									"reference": "did:in:2232124123",
+									"url": "/attachments/582342345",
+									"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+								}
+							]
+						},
+						"status": "ACTIVE",
+						"createdBy": "tars",
+						"updatedBy": "tars",
+						"createdAt": "2020-04-04T16:04:04Z",
+						"updatedAt": "2020-04-04T16:04:04Z"
+					},
+					"rentalCounter": "did:ded:37283232",
+					"vehicle": {
+						"id": 1,
+						"did": "did:rta:1GNCS18Z3M0115561",
+						"source": "rta",
+						"sourceKey": "1GNCS18Z3M0115561",
+						"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+						"vin": "1GNCS18Z3M0115561",
+						"plate": {
+							"category": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"source": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"code": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"number": "8069039316271104",
+							"status": "zelzol"
+						}
+					},
+					"drivers": [
+						{
+							"id": 1,
+							"did": "did:rta:1021252",
+							"source": "rta",
+							"sourceKey": "1021252",
+							"name": {
+								"ar": {
+									"title": "Mr.",
+									"firstName": "John",
+									"middleName": "B",
+									"lastName": "Doe",
+									"suffix": "Jr.",
+									"fullName": "John B Doe Jr."
+								},
+								"en": {
+									"title": "Mr.",
+									"firstName": "John",
+									"middleName": "B",
+									"lastName": "Doe",
+									"suffix": "Jr.",
+									"fullName": "John B Doe Jr."
+								}
+							},
+							"gender": "MALE",
+							"nationality": "United Kingdom",
+							"countryOfResidence": "United Arab Emirates",
+							"emiratesId": {
+								"id": "78419771212212",
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31"
+							},
+							"gccId": {
+								"id": "78419771212212",
+								"issuedCountryCode": "OMN",
+								"issuedCountry": "Oman",
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31"
+							},
+							"passport": {
+								"passportType": "REGULAR",
+								"passportNumber": "791234567",
+								"issuedCountryCode": "GBR",
+								"issuedCountry": "United Kingdom",
+								"issuedPlace": "London",
+								"issuedDate": "2000-10-22T09:24:30.822Z",
+								"expiryDate": "2008-02-25T00:07:53.866Z"
+							},
+							"visa": {
+								"visaType": "RESIDENCE",
+								"file": "302/2018/1234567",
+								"uid": "784197054649928",
+								"issuedPlace": "Dubai",
+								"issuedDate": "2014-07-23T13:52:56.523Z",
+								"expiryDate": "2006-07-14T13:41:57.861Z",
+								"sponsor": {
+									"en": "English",
+									"ar": "عربي"
+								},
+								"status": "ACTIVE"
+							},
+							"contact": {
+								"addresses": [
+									{
+										"label": "work",
+										"address": {
+											"en": "English",
+											"ar": "عربي"
+										},
+										"makani": "2433087031",
+										"poBox": "9226",
+										"area": {
+											"code": "zuvbibge",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"subArea": {
+											"code": "lozvomkacriwop",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"community": {
+											"code": "ujejobdi",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"unit": {
+											"code": "gevehzictelorhul",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"building": {
+											"code": "secnavde",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"street": {
+											"code": "rucai",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"city": {
+											"code": "otwasavcose",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"region": {
+											"code": "ewoc",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"country": {
+											"code": "bizfafundu",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"postalCode": "9226",
+										"emirate": {
+											"code": "gupejiboulso",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"geoLocation": {
+											"latitude": 25.1892807,
+											"longitude": 55.2561466
+										},
+										"preferred": true
+									}
+								],
+								"phones": [
+									{
+										"label": "work",
+										"countryCode": "+971",
+										"phone": "43435353",
+										"extension": "1234",
+										"preferred": true
+									}
+								],
+								"emails": [
+									{
+										"label": "personal",
+										"email": "john.doe@example.com",
+										"preferred": true
+									}
+								]
+							},
+							"birthDate": "2017-06-24T13:50:01.533Z",
+							"imageUrl": "/agencies/did:rta:1021252/7c96c336f65e2.png",
+							"attachments": [
+								{
+									"label": "passport",
+									"reference": "did:in:2232124123",
+									"url": "/attachments/582342345",
+									"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+								}
+							],
+							"driverLicense": {
+								"id": "78419771212212",
+								"categories": [
+									"depodi"
+								],
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31",
+								"issuedBy": "Dubai",
+								"issuingAuthority": "UAE",
+								"issuedCountryCode": "UAE",
+								"issuingCountry": "UAE",
+								"totalBlackPoints": 20,
+								"licenseType": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"internationalDrivingPermit": {
+								"id": "78419771212212",
+								"categories": [
+									"tatirtin"
+								],
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31",
+								"issuedBy": "Dubai",
+								"issuingAuthority": "UAE",
+								"issuedCountryCode": "UAE",
+								"issuingCountry": "UAE",
+								"totalBlackPoints": 20,
+								"licenseType": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							}
+						}
+					],
+					"payables": [
+						{
+							"paymentDate": "2000-06-13T13:55:54.431Z",
+							"kind": "RENT",
+							"periodicity": "DAILY",
+							"value": {
+								"currencyCode": "AED",
+								"value": 100
+							},
+							"references": {
+								"membership": "7634981659272872"
+							}
+						}
+					],
+					"startDate": "2019-09-13T22:49:08.987Z",
+					"expectedReturnDate": "2016-07-03T08:45:17.368Z",
+					"readings": [
+						{
+							"readAt": "2020-07-01T16:20:04Z",
+							"fuelLevel": {
+								"unit": "km",
+								"value": 1000
+							},
+							"odometer": {
+								"unit": "km",
+								"value": 1000
+							}
+						}
+					],
+					"references": {
+						"reason": "Maintenance"
+					},
+					"items": [
+						{
+							"id": 1,
+							"did": "did:agency:1234",
+							"agency": {
+								"id": 1,
+								"did": "did:ded:1210141",
+								"source": "ded",
+								"sourceKey": "1210141",
+								"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								},
+								"chainName": {
+									"en": "English",
+									"ar": "عربي"
+								},
+								"tradeLicenseNumber": "12764548"
+							},
+							"name": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"standardName": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"imageUrl": "/agencies/did:rta:1021252/7c96c336f65e2.png",
+							"description": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"details": {
+								"rates": {
+									"oneTimeRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"dailyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"weeklyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"monthlyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"yearlyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									}
+								}
+							},
+							"status": "ACTIVE",
+							"createdBy": "tars",
+							"updatedBy": "tars",
+							"createdAt": "2020-04-04T16:04:04Z",
+							"updatedAt": "2020-04-04T16:04:04Z"
+						}
+					],
+					"pickup": {
+						"pickupDate": "2011-06-23T18:26:23.588Z",
+						"pickupTime": "09:00",
+						"address": {
+							"label": "work",
+							"address": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"makani": "2433087031",
+							"poBox": "9226",
+							"area": {
+								"code": "icejutojvubib",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"subArea": {
+								"code": "suinvoto",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"community": {
+								"code": "kejicemkuezezem",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"unit": {
+								"code": "filrinhapulopin",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"building": {
+								"code": "bithutenbiezz",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"street": {
+								"code": "eliagkasabud",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"city": {
+								"code": "mokliko",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"region": {
+								"code": "goca",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"country": {
+								"code": "bohpi",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"postalCode": "9226",
+							"emirate": {
+								"code": "apsaz",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"geoLocation": {
+								"latitude": 25.1892807,
+								"longitude": 55.2561466
+							},
+							"preferred": true
+						}
+					},
+					"constraints": [
+						{
+							"kind": "DISTANCE",
+							"value": "5000",
+							"valueType": "Integer"
+						}
+					],
+					"payments": [
+						{
+							"paymentDate": "2002-04-29T11:57:02.623Z",
+							"kind": "RENT",
+							"periodicity": "DAILY",
+							"value": {
+								"currencyCode": "AED",
+								"value": 100
+							},
+							"references": {
+								"membership": "7634981659272872"
+							}
+						}
+					],
+					"electronicSignature": "wesijok"
+				}
+			],
+			"lines": [
+				{
+					"owner": {
+						"id": 1,
+						"did": "did:ded:1210141",
+						"source": "ded",
+						"sourceKey": "1210141",
+						"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+						"name": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"chainName": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"tradeLicenseNumber": "12764548"
+					},
+					"counter": {
+						"id": 1,
+						"did": "did:ded:1234",
+						"source": "ded",
+						"sourceKey": "1021252",
+						"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+						"agency": {
+							"id": 1,
+							"did": "did:ded:1210141",
+							"source": "ded",
+							"sourceKey": "1210141",
+							"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+							"name": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"chainName": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"tradeLicenseNumber": "12764548"
+						},
+						"name": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"chainName": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"description": {
+							"en": "English",
+							"ar": "عربي"
+						},
+						"details": {
+							"contact": {
+								"addresses": [
+									{
+										"label": "work",
+										"address": {
+											"en": "English",
+											"ar": "عربي"
+										},
+										"makani": "2433087031",
+										"poBox": "9226",
+										"area": {
+											"code": "fommu",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"subArea": {
+											"code": "domovwo",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"community": {
+											"code": "icoo",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"unit": {
+											"code": "uwiukuovifuujeci",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"building": {
+											"code": "jefrikda",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"street": {
+											"code": "cikge",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"city": {
+											"code": "weji",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"region": {
+											"code": "idvevogjiv",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"country": {
+											"code": "patowa",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"postalCode": "9226",
+										"emirate": {
+											"code": "lihokizaz",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"geoLocation": {
+											"latitude": 25.1892807,
+											"longitude": 55.2561466
+										},
+										"preferred": true
+									}
+								],
+								"phones": [
+									{
+										"label": "work",
+										"countryCode": "+971",
+										"phone": "43435353",
+										"extension": "1234",
+										"preferred": true
+									}
+								],
+								"emails": [
+									{
+										"label": "personal",
+										"email": "john.doe@example.com",
+										"preferred": true
+									}
+								]
+							},
+							"attachments": [
+								{
+									"label": "passport",
+									"reference": "did:in:2232124123",
+									"url": "/attachments/582342345",
+									"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+								}
+							]
+						},
+						"status": "ACTIVE",
+						"createdBy": "tars",
+						"updatedBy": "tars",
+						"createdAt": "2020-04-04T16:04:04Z",
+						"updatedAt": "2020-04-04T16:04:04Z"
+					},
+					"rentalCounter": "did:ded:37283232",
+					"vehicle": {
+						"id": 1,
+						"did": "did:rta:1GNCS18Z3M0115561",
+						"source": "rta",
+						"sourceKey": "1GNCS18Z3M0115561",
+						"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+						"vin": "1GNCS18Z3M0115561",
+						"plate": {
+							"category": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"source": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"code": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"number": "1057064245788672",
+							"status": "najaekde"
+						}
+					},
+					"drivers": [
+						{
+							"id": 1,
+							"did": "did:rta:1021252",
+							"source": "rta",
+							"sourceKey": "1021252",
+							"name": {
+								"ar": {
+									"title": "Mr.",
+									"firstName": "John",
+									"middleName": "B",
+									"lastName": "Doe",
+									"suffix": "Jr.",
+									"fullName": "John B Doe Jr."
+								},
+								"en": {
+									"title": "Mr.",
+									"firstName": "John",
+									"middleName": "B",
+									"lastName": "Doe",
+									"suffix": "Jr.",
+									"fullName": "John B Doe Jr."
+								}
+							},
+							"gender": "MALE",
+							"nationality": "United Kingdom",
+							"countryOfResidence": "United Arab Emirates",
+							"emiratesId": {
+								"id": "78419771212212",
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31"
+							},
+							"gccId": {
+								"id": "78419771212212",
+								"issuedCountryCode": "OMN",
+								"issuedCountry": "Oman",
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31"
+							},
+							"passport": {
+								"passportType": "REGULAR",
+								"passportNumber": "791234567",
+								"issuedCountryCode": "GBR",
+								"issuedCountry": "United Kingdom",
+								"issuedPlace": "London",
+								"issuedDate": "2011-01-07T09:14:33.553Z",
+								"expiryDate": "2004-10-27T11:59:33.256Z"
+							},
+							"visa": {
+								"visaType": "RESIDENCE",
+								"file": "302/2018/1234567",
+								"uid": "784197054649928",
+								"issuedPlace": "Dubai",
+								"issuedDate": "2002-04-21T08:41:24.699Z",
+								"expiryDate": "2013-04-20T02:41:37.944Z",
+								"sponsor": {
+									"en": "English",
+									"ar": "عربي"
+								},
+								"status": "ACTIVE"
+							},
+							"contact": {
+								"addresses": [
+									{
+										"label": "work",
+										"address": {
+											"en": "English",
+											"ar": "عربي"
+										},
+										"makani": "2433087031",
+										"poBox": "9226",
+										"area": {
+											"code": "dawjirigipsege",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"subArea": {
+											"code": "regnofednuto",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"community": {
+											"code": "rouhhebjibije",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"unit": {
+											"code": "acraupu",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"building": {
+											"code": "rerowulgigdi",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"street": {
+											"code": "nofubn",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"city": {
+											"code": "zosudurmuho",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"region": {
+											"code": "hufehzotow",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"country": {
+											"code": "zozearfuicdukf",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"postalCode": "9226",
+										"emirate": {
+											"code": "fajwas",
+											"name": {
+												"en": "English",
+												"ar": "عربي"
+											}
+										},
+										"geoLocation": {
+											"latitude": 25.1892807,
+											"longitude": 55.2561466
+										},
+										"preferred": true
+									}
+								],
+								"phones": [
+									{
+										"label": "work",
+										"countryCode": "+971",
+										"phone": "43435353",
+										"extension": "1234",
+										"preferred": true
+									}
+								],
+								"emails": [
+									{
+										"label": "personal",
+										"email": "john.doe@example.com",
+										"preferred": true
+									}
+								]
+							},
+							"birthDate": "2012-08-05T13:08:33.855Z",
+							"imageUrl": "/agencies/did:rta:1021252/7c96c336f65e2.png",
+							"attachments": [
+								{
+									"label": "passport",
+									"reference": "did:in:2232124123",
+									"url": "/attachments/582342345",
+									"hash": "4e76434eea3c9d9cf9cb10bbf3f4a74b"
+								}
+							],
+							"driverLicense": {
+								"id": "78419771212212",
+								"categories": [
+									"lejaahd"
+								],
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31",
+								"issuedBy": "Dubai",
+								"issuingAuthority": "UAE",
+								"issuedCountryCode": "UAE",
+								"issuingCountry": "UAE",
+								"totalBlackPoints": 20,
+								"licenseType": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"internationalDrivingPermit": {
+								"id": "78419771212212",
+								"categories": [
+									"wokefha"
+								],
+								"issueDate": "2020-09-01",
+								"expiryDate": "2021-08-31",
+								"issuedBy": "Dubai",
+								"issuingAuthority": "UAE",
+								"issuedCountryCode": "UAE",
+								"issuingCountry": "UAE",
+								"totalBlackPoints": 20,
+								"licenseType": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							}
+						}
+					],
+					"payables": [
+						{
+							"paymentDate": "2011-01-10T00:06:53.986Z",
+							"kind": "RENT",
+							"periodicity": "DAILY",
+							"value": {
+								"currencyCode": "AED",
+								"value": 100
+							},
+							"references": {
+								"membership": "7634981659272872"
+							}
+						}
+					],
+					"startDate": "2021-01-25T08:14:41.287Z",
+					"expectedReturnDate": "2003-10-15T16:52:25.949Z",
+					"readings": [
+						{
+							"readAt": "2020-07-01T16:20:04Z",
+							"fuelLevel": {
+								"unit": "km",
+								"value": 1000
+							},
+							"odometer": {
+								"unit": "km",
+								"value": 1000
+							}
+						}
+					],
+					"references": {
+						"reason": "Maintenance"
+					},
+					"items": [
+						{
+							"id": 1,
+							"did": "did:agency:1234",
+							"agency": {
+								"id": 1,
+								"did": "did:ded:1210141",
+								"source": "ded",
+								"sourceKey": "1210141",
+								"versionHash": "2fdc0177057d3a5c6c2c0821e01f4fa8d90f9a3bb7afd82b0db526af98d68de8",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								},
+								"chainName": {
+									"en": "English",
+									"ar": "عربي"
+								},
+								"tradeLicenseNumber": "12764548"
+							},
+							"name": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"standardName": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"imageUrl": "/agencies/did:rta:1021252/7c96c336f65e2.png",
+							"description": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"details": {
+								"rates": {
+									"oneTimeRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"dailyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"weeklyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"monthlyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									},
+									"yearlyRate": {
+										"currencyCode": "AED",
+										"value": 100
+									}
+								}
+							},
+							"status": "ACTIVE",
+							"createdBy": "tars",
+							"updatedBy": "tars",
+							"createdAt": "2020-04-04T16:04:04Z",
+							"updatedAt": "2020-04-04T16:04:04Z"
+						}
+					],
+					"pickup": {
+						"pickupDate": "2003-07-20T06:48:14.030Z",
+						"pickupTime": "09:00",
+						"address": {
+							"label": "work",
+							"address": {
+								"en": "English",
+								"ar": "عربي"
+							},
+							"makani": "2433087031",
+							"poBox": "9226",
+							"area": {
+								"code": "inidamufalca",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"subArea": {
+								"code": "bedsicuc",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"community": {
+								"code": "haszozihhitej",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"unit": {
+								"code": "ogeewupovel",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"building": {
+								"code": "zegiigatovsalho",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"street": {
+								"code": "zuozodilap",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"city": {
+								"code": "witmottu",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"region": {
+								"code": "kubivowdechawi",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"country": {
+								"code": "zuzou",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"postalCode": "9226",
+							"emirate": {
+								"code": "ficcinelekope",
+								"name": {
+									"en": "English",
+									"ar": "عربي"
+								}
+							},
+							"geoLocation": {
+								"latitude": 25.1892807,
+								"longitude": 55.2561466
+							},
+							"preferred": true
+						}
+					},
+					"constraints": [
+						{
+							"kind": "DISTANCE",
+							"value": "5000",
+							"valueType": "Integer"
+						}
+					],
+					"payments": [
+						{
+							"paymentDate": "2001-06-14T00:35:50.228Z",
+							"kind": "RENT",
+							"periodicity": "DAILY",
+							"value": {
+								"currencyCode": "AED",
+								"value": 100
+							},
+							"references": {
+								"membership": "7634981659272872"
+							}
+						}
+					],
+					"electronicSignature": "hudojohawuubite"
+				}
+			],
+			"references": {
+				"membership": "7634981659272872"
+			}
+		}
+	}
+}
